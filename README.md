@@ -1,3 +1,6 @@
+![logo](https://github.com/od1na/od1na/blob/main/logo.png)
+
+
 <h1 align="center">Hi 👋, I'm Saidnazarova Odina</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
